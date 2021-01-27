@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DisableBaselineAlignment">
+        <ignore path="res/layout/activity_menu.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_change_menu.xml" />
+        <ignore path="res/layout/activity_confirm_menu.xml" />
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/activity_menu.xml" />
+    </issue>
+    <issue id="InefficientWeight">
+        <ignore path="res/layout/activity_change_menu.xml" />
+        <ignore path="res/layout/activity_confirm_menu.xml" />
+        <ignore path="res/layout/activity_menu.xml" />
+    </issue>
+    <issue id="RtlHardcoded">
+        <ignore path="res/layout/activity_change_menu.xml" />
+        <ignore path="res/layout/activity_confirm_menu.xml" />
+        <ignore path="res/layout/activity_menu.xml" />
+    </issue>
+    <issue id="RtlSymmetry">
+        <ignore path="res/layout/activity_menu.xml" />
+    </issue>
+    <issue id="UselessLeaf">
+        <ignore path="res/layout/activity_change_menu.xml" />
+    </issue>
+</lint>

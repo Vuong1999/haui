@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Them"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Thêm" />
+
+    <item
+        android:id="@+id/Sua"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Sửa" />
+
+    <item
+        android:id="@+id/Xoa"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Xoá" />
+
+    <item
+        android:id="@+id/Dong"
+        android:icon="@drawable/ic_baseline_person_add_24"
+        android:title="Đóng" />
+</menu>

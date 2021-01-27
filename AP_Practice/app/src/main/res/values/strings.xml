@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">AP_Practice Program</string>
+    <string name="app_name1" translatable="false">Sum Program</string>
+    <string name="app_name2" translatable="false">Convert Temperature Program</string>
+    <string name="app_name3" translatable="false">Convert Calendar Program</string>
+    <string name="app_name4" translatable="false">BMI Calculate Program</string>
+    <string name="app_name5" translatable="false">Quadratic Program</string>
+    <string name="app_name6" translatable="false">Calculate Program</string>
+    <string name="cls_name">Thoát chương trình</string>
+</resources>

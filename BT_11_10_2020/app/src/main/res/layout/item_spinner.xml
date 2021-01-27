@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+        <variable
+            name="itemSinhVien"
+            type="com.ktpm02.bt_11_10_2020.SinhVien" />
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:id="@+id/tv_lop"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@{itemSinhVien.lop}"
+            android:textSize="18sp"
+            android:gravity="center"
+
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@{itemSinhVien.maSV}"
+            android:id="@+id/tv_maSv"
+            android:textSize="18sp"
+            android:gravity="center"
+
+            android:textColor="@color/black" />
+        <TextView
+            android:layout_width="0dp"
+            android:id="@+id/tv_tenSV"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="@{itemSinhVien.tenSinhVien}"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:id="@+id/tv_diemTb"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="@{itemSinhVien.diemTB}"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+</layout>
