@@ -1,0 +1,17 @@
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Form1.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.exe
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmChinh.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmNhansu.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmCategories.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmMenu.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmFood.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmBan.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.BanAn.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.thanhtoan.resources

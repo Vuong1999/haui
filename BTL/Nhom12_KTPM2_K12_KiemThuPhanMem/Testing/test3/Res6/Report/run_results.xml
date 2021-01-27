@@ -1,0 +1,1744 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:13</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"john"</Description>
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["john"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>212, 276</Description>
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[212, 276]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"abc"</Description>
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["abc"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>164, 359</Description>
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[164, 359]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>OK.Click</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+          <Object>
+            <Type>WinButton</Type>
+            <Name><![CDATA[OK]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[OK]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b2d62d637b974974bb77d710c2dcc916</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login Failed</Name>
+    <Description>Dialog</Description>
+    <StartTime>2020-06-17 14:03:14</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Dialog]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Login Failed]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[#32770]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>98066e70986f4037bc9e0888730a9396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Micro Focus MyFlight Sample_3</Name>
+    <Description>Window</Description>
+    <StartTime>2020-06-17 14:03:13</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:13</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c8ee25cea2984bfdae66fa2196cdcdb3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:13</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>f8399cb8d41a4545a4130e92d6229cb6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe</Name>
+        <Path>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application</Path>
+        <Version />
+        <AdditionalInfos>
+          <Info />
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"xyz"</Description>
+    <StartTime>2020-06-17 14:03:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["xyz"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>212, 276</Description>
+    <StartTime>2020-06-17 14:03:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[212, 276]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"HP"</Description>
+    <StartTime>2020-06-17 14:03:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["HP"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>164, 359</Description>
+    <StartTime>2020-06-17 14:03:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[164, 359]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>OK.Click</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+          <Object>
+            <Type>WinButton</Type>
+            <Name><![CDATA[OK]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[OK]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b2d62d637b974974bb77d710c2dcc916</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login Failed</Name>
+    <Description>Dialog</Description>
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Dialog]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Login Failed]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[#32770]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>98066e70986f4037bc9e0888730a9396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Micro Focus MyFlight Sample_3</Name>
+    <Description>Window</Description>
+    <StartTime>2020-06-17 14:03:15</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:15</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c8ee25cea2984bfdae66fa2196cdcdb3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:15</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>f8399cb8d41a4545a4130e92d6229cb6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>2</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe</Name>
+        <Path>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application</Path>
+        <Version />
+        <AdditionalInfos>
+          <Info />
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"xyz"</Description>
+    <StartTime>2020-06-17 14:03:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["xyz"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>212, 276</Description>
+    <StartTime>2020-06-17 14:03:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[212, 276]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"abc"</Description>
+    <StartTime>2020-06-17 14:03:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["abc"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>164, 359</Description>
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[164, 359]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>OK.Click</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+          <Object>
+            <Type>WinButton</Type>
+            <Name><![CDATA[OK]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[OK]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b2d62d637b974974bb77d710c2dcc916</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login Failed</Name>
+    <Description>Dialog</Description>
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Dialog]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Login Failed]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[#32770]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>98066e70986f4037bc9e0888730a9396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Micro Focus MyFlight Sample_3</Name>
+    <Description>Window</Description>
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c8ee25cea2984bfdae66fa2196cdcdb3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:17</StartTime>
+    <Duration>2</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>f8399cb8d41a4545a4130e92d6229cb6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>3</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe</Name>
+        <Path>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application</Path>
+        <Version />
+        <AdditionalInfos>
+          <Info />
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>"john"</Description>
+    <StartTime>2020-06-17 14:03:20</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA["john"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>212, 276</Description>
+    <StartTime>2020-06-17 14:03:20</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[212, 276]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Type</Name>
+    <Description>""</Description>
+    <StartTime>2020-06-17 14:03:20</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA[""]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Click</Name>
+    <Description>164, 359</Description>
+    <StartTime>2020-06-17 14:03:20</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[164, 359]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>OK.Click</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:21</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+          <Object>
+            <Type>WinButton</Type>
+            <Name><![CDATA[OK]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[OK]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b2d62d637b974974bb77d710c2dcc916</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login Failed</Name>
+    <Description>Dialog</Description>
+    <StartTime>2020-06-17 14:03:21</StartTime>
+    <Duration>21</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+          <Object>
+            <Type>Dialog</Type>
+            <Name><![CDATA[Login Failed]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Dialog]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Login Failed]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[#32770]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>98066e70986f4037bc9e0888730a9396</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Micro Focus MyFlight Sample_3</Name>
+    <Description>Window</Description>
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Duration>23</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Micro Focus MyFlight Sample_3.Activate</Name>
+    <ErrorText>Cannot identify the object "Micro Focus MyFlight Sample_3" (of class Window).
+Verify that this object's properties match an object currently displayed in your application.</ErrorText>
+    <Description>Cannot&amp;nbsp;identify&amp;nbsp;the&amp;nbsp;object&amp;nbsp;"Micro&amp;nbsp;Focus&amp;nbsp;MyFlight&amp;nbsp;Sample_3"&amp;nbsp;(of&amp;nbsp;class&amp;nbsp;Window).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;this&amp;nbsp;object's&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;regexpwndtitle = Micro Focus MyFlight Sample Application&lt;br&gt;regexpwndclass = HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]&lt;br&gt;is owned window = 0&lt;br&gt;is child window = 0&lt;br&gt;</Description>
+    <StartTime>2020-06-17 14:03:42</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Window("Micro Focus MyFlight Sample_3").Activate]]></Scripts>
+          <LineNo><![CDATA[8]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <Operation>Activate</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\661a521a-45af-454e-b125-ac64eb4b9b8f.jpeg" />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2020-06-17 14:04:14</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>8a4816f3de5345d2aae384ab9fb51be3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Micro Focus MyFlight Sample_3</Name>
+    <Description>Window</Description>
+    <StartTime>2020-06-17 14:03:42</StartTime>
+    <Duration>32</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Window</Type>
+            <Name><![CDATA[Micro Focus MyFlight Sample_3]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Window]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Micro Focus MyFlight Sample Application]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndclass]]></Name>
+            <Value><![CDATA[HwndWrapper[FlightsGUI.exe;;4ce93a38-5771-4b38-a485-285aa7949614]]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6baa7187bfcd4ac48a7113df34e81ac6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Duration>55</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>c8ee25cea2984bfdae66fa2196cdcdb3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2020-06-17 14:03:19</StartTime>
+    <Duration>55</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>f8399cb8d41a4545a4130e92d6229cb6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>4</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application\FlightsGUI.exe</Name>
+        <Path>C:\Program Files (x86)\Micro Focus\Unified Functional Testing\samples\Flights Application</Path>
+        <Version />
+        <AdditionalInfos>
+          <Info />
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>test3</Name>
+    <ToolName>Micro Focus Unified Functional Testing</ToolName>
+    <ToolVersion>0</ToolVersion>
+    <ToolVersionStringLiteral>15.0.1</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2020-06-17 14:03:11</StartTime>
+    <Duration>63</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>e0e1a119a988498aa2722c1b7af81b85</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+07:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>vuong</User>
+      <CpuInfo>Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>8059</TotalMemory>
+      <HostName>DESKTOP-QCVV79D</HostName>
+      <OSInfo>Windows 10</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res6</ResultName>
+    <RunStartTime>2020-06-17 14:03:11</RunStartTime>
+    <Timezone>+07:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>0</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>15.0.1</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

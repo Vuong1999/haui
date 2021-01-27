@@ -1,0 +1,5 @@
+E:\QuanLyQuanCafe\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\QuanLyQuanCafe\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\QuanLyQuanCafe\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\QuanLyQuanCafe\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\QuanLyQuanCafe\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

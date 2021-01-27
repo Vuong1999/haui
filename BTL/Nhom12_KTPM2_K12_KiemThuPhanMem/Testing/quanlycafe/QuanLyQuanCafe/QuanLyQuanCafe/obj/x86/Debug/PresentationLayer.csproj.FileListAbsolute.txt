@@ -1,0 +1,45 @@
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.exe
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.BanAn.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Form1.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmBan.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmCategories.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmChinh.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmFood.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmMenu.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmNhansu.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.thanhtoan.resources
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BusinessLogicLayer.dll
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DataAccessLayer.dll
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BusinessLogicLayer.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DataAccessLayer.pdb
+E:\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.HoaDonKhachHang.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BusinessLogicLayer.dll
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DataAccessLayer.dll
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BusinessLogicLayer.pdb
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DataAccessLayer.pdb
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\PresentationLayer.csprojAssemblyReference.cache
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.BanAn.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Form1.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmBan.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmCategories.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmChinh.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmFood.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmMenu.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.frmNhansu.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.HoaDonKhachHang.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.thanhtoan.resources
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\PresentationLayer.csproj.CopyComplete
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.exe
+D:\Software Engineering\Testing\BTL\Nhom12_KTPM2_K12_KiemThuPhanMem\Testing\quanlycafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\x86\Debug\QuanLyQuanCafe.pdb

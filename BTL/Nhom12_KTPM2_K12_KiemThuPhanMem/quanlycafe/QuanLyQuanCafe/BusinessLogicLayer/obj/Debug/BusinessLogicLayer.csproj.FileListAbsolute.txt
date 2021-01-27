@@ -1,0 +1,7 @@
+E:\QuanLyQuanCafe\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\QuanLyQuanCafe\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\QuanLyQuanCafe\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\QuanLyQuanCafe\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\QuanLyQuanCafe\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\QuanLyQuanCafe\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\QuanLyQuanCafe\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
